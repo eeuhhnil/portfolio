@@ -525,6 +525,7 @@ body {
     font-size: 26px;
     font-weight: 700;
     color: #000;
+    white-space: nowrap;
 }
 
 .stars {
@@ -1005,7 +1006,7 @@ footer {
 }
 
 /* Image Hover Effects */
-.ep-img,
+/* .ep-img,
 .uikit-img,
 .uidesign-img,
 .mockup-img {
@@ -1019,7 +1020,7 @@ footer {
 .mockup-img:hover {
     transform: translateY(-8px);
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
-}
+} */
 
 .uidesign-grid {
     display: grid;
